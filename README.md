@@ -1,6 +1,6 @@
 # Credit Scoring — Modelo de Probabilidad de Default (PD)
 
-Pipeline end-to-end de credit scoring siguiendo prácticas profesionales 
+Pipeline end-to-end de credit scoring siguiendo prácticas 
 de Risk Analytics y Model Risk Management en banca.
 
 ## Resultados

@@ -1,0 +1,24 @@
+{
+  "cols": [
+    "person_income_log",
+    "loan_percent_income_log",
+    "loan_amnt",
+    "loan_grade_enc",
+    "is_high_dti",
+    "loan_intent_EDUCATION",
+    "loan_intent_HOMEIMPROVEMENT",
+    "loan_intent_MEDICAL",
+    "loan_intent_PERSONAL",
+    "loan_intent_VENTURE",
+    "person_home_ownership_OTHER",
+    "person_home_ownership_OWN",
+    "person_home_ownership_RENT"
+  ],
+  "factor": 28.85390081777927,
+  "offset": 563.2675307977879,
+  "corte": {
+    "Conservador": 585,
+    "Moderado": 550,
+    "Agresivo": 505
+  }
+}
